@@ -1,0 +1,20 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/mustache": "^0.8.30",
+    "bootstrap": "^3.3.7",
+    "mustache": "^2.3.0",
+    "systemjs": "^0.20.19"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "start": "http-server -p 8452"
+  },
+  "author": "Felipe Gavilan",
+  "license": "ISC"
+}
